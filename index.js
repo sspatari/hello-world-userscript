@@ -7,8 +7,8 @@
 // @author       You
 // @match        https://github.com/*
 // @grant        none
-// @updateURL    https://sspatari.github.io/hello-world-userscript/index.js
-// @downloadURL  https://sspatari.github.io/hello-world-userscript/index.js
+// @updateURL    https://raw.githubusercontent.com/sspatari/hello-world-userscript/refs/heads/gh-pages/index.js
+// @downloadURL  https://raw.githubusercontent.com/sspatari/hello-world-userscript/refs/heads/gh-pages/index.js
 // ==/UserScript==
 (function () {
     console.log("Hello World from a User Script!");
