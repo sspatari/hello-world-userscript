@@ -5,6 +5,9 @@ on:
     branches:
       - master
 
+permissions:
+  contents: write # Grant permission to write to the repository contents
+
 jobs:
   build:
     runs-on: ubuntu-latest
