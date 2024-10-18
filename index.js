@@ -1,3 +1,4 @@
+"use strict";
 // ==UserScript==
 // @name         Hello World User Script
 // @namespace    http://tampermonkey.net/
@@ -7,7 +8,6 @@
 // @match        http://*/*, https://*/*
 // @grant        none
 // ==/UserScript==
-
-(() => {
-  console.log("Hello World from a User Script!");
+(function () {
+    console.log("Hello World from a User Script!");
 })();
