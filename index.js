@@ -5,7 +5,7 @@
 // @version      0.1
 // @description  A simple hello world script
 // @author       You
-// @match        http://*/*, https://*/*
+// @match        https://github.com/*
 // @grant        none
 // ==/UserScript==
 (function () {
