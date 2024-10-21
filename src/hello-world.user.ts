@@ -6,8 +6,8 @@
 // @author       You
 // @match        https://github.com/*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/sspatari/hello-world-userscript/refs/heads/gh-pages/index.js
-// @downloadURL  https://raw.githubusercontent.com/sspatari/hello-world-userscript/refs/heads/gh-pages/index.js
+// @updateURL    https://github.com/sspatari/hello-world-userscript/blob/gh-pages/hello-world.user.js
+// @downloadURL  https://github.com/sspatari/hello-world-userscript/blob/gh-pages/hello-world.user.js
 // ==/UserScript==
 
 (() => {
